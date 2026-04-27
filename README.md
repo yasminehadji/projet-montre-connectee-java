@@ -18,9 +18,9 @@ Créer une montre virtuelle entièrement configurable en appliquant les principe
 ---
 ## 📸 Aperçu de l'application
 
-![Interface principale](images/Capture d'écran 2026-04-27 213926.png)
+![Interface principale](images/interface-principale.png)
 
-![Personnalisation](images/Capture d'écran 2026-04-27 214402)
+![Personnalisation](images/personnalisation.png)
 
 ## ✨ Fonctionnalités principales
 
